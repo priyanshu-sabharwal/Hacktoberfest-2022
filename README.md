@@ -1,4 +1,4 @@
-#  Hacktoberfest 2022 Is Awesome🔥
+# { Hacktoberfest 2022 Is Awesome } 🔥
 ![image](https://user-images.githubusercontent.com/70385488/192114009-0830321a-d227-4a4d-8411-6c03b54d7ce6.png)
 
 <div align="center">
@@ -27,12 +27,12 @@ A month-long celebration from October 1st to October 31st presented by [Digital 
 ## Rules :fire:
 To qualify for the __official limited edition Hacktoberfest shirt__, you must register [here](https://hacktoberfest.digitalocean.com/) and make four Pull Requests (PRs) between October 1-31, 2022 (in any time zone). PRs can be made to any public repository on GitHub, not only the ones with issues labeled Hacktoberfest. This year, the __first 40,000__ participants who complete the challenge will earn a T-shirt.
 
-## Steps to follow :scroll:
+## _Steps to follow :scroll_ :
 
 ### Tip : Complete this process in GitHub (in your browser)
 
 
-### 0. Star The Repository :star2:
+### 0. _Star The Repository :star2_ :
 
 Star the repository by pressing the topmost-right button to start your wonderful journey.
 
@@ -43,7 +43,7 @@ You can get your own fork/copy of [HacktoberFest-2022](https://github.com/kishan
 
 ### 2. Watch this video to easily make PR in this repository:
 
-# Our Awesome Contributors 🤩🤩
+# { Our Awesome Contributors }  🤩🤩
 <a href="https://github.com/Datrye24/Hacktoberfest-2022/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=Datrye24/Hacktoberfest-2022" />
 </a>
