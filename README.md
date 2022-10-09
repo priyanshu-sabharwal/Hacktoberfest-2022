@@ -41,7 +41,7 @@ Star the repository by pressing the topmost-right button to start your wonderful
 You can get your own fork/copy of [HacktoberFest-2022](https://github.com/kishanrajput23/Hacktoberfest-2022) by using the <a href="https://github.com/kishanrajput23/Hacktoberfest-2022/new/master?readme=1#fork-destination-box"><kbd><b>Fork</b></kbd></a> button.
 
 
-### 2. Watch this video to easily make PR in this repository:
+### 2. Watch this video to easily make PR in this repository: https://youtu.be/u9EJffmlyw4
 
 # { Our Awesome Contributors }  🤩🤩
 <a href="https://github.com/Datrye24/Hacktoberfest-2022/graphs/contributors">
