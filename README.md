@@ -32,7 +32,7 @@ To qualify for the __official limited edition Hacktoberfest shirt__, you must re
 ### Tip : Complete this process in GitHub (in your browser)
 
 
-### 0. _Star The Repository 
+### 0. Star The Repository 
 
 Star the repository by pressing the topmost-right button to start your wonderful journey.
 
